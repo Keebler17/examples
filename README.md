@@ -1,0 +1,2 @@
+# examples
+helping my friends
